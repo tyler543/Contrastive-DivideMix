@@ -1,0 +1,7 @@
+# Model logs and outputs
+checkpoints/
+runs/
+*.pth
+*.pt
+data_batch_*
+test_batch
